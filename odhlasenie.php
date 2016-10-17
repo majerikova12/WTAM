@@ -7,3 +7,6 @@ if (!isset($_SESSION["user"])){
 	echo json_encode(array("state"=>"ok"));
 }
 ?>
+
+<!-- komentar pre mata a zuzkis -->
+
